@@ -1,0 +1,7 @@
+<launch>
+    <!-- Random Motion Planner Node -->
+    <node name="home_setter" pkg="iiwa_gazebo" type="home_set.py" output="screen"/>
+    
+    <!-- Optional: Include the iiwa gazebo launch file if you need to start the simulation too -->
+    <!-- <include file="$(find iiwa_gazebo)/launch/iiwa_gazebo.launch"/> -->
+</launch>
