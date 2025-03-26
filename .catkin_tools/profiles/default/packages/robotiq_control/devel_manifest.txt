@@ -1,0 +1,6 @@
+robotiq/robotiq_control
+/home/asl-ss-guna/catkin_ws/devel/.private/robotiq_control/cmake.lock /home/asl-ss-guna/catkin_ws/devel/./cmake.lock
+/home/asl-ss-guna/catkin_ws/devel/.private/robotiq_control/share/robotiq_control/cmake/robotiq_controlConfig.cmake /home/asl-ss-guna/catkin_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig.cmake
+/home/asl-ss-guna/catkin_ws/devel/.private/robotiq_control/share/robotiq_control/cmake/robotiq_controlConfig-version.cmake /home/asl-ss-guna/catkin_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig-version.cmake
+/home/asl-ss-guna/catkin_ws/devel/.private/robotiq_control/lib/python3/dist-packages/robotiq_control/__init__.py /home/asl-ss-guna/catkin_ws/devel/lib/python3/dist-packages/robotiq_control/__init__.py
+/home/asl-ss-guna/catkin_ws/devel/.private/robotiq_control/lib/pkgconfig/robotiq_control.pc /home/asl-ss-guna/catkin_ws/devel/lib/pkgconfig/robotiq_control.pc

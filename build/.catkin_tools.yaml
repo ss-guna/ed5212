@@ -1,0 +1,6 @@
+devel_space: /home/asl-ss-guna/catkin_ws/devel
+install: false
+install_space: /home/asl-ss-guna/catkin_ws/install
+profile: default
+source_space: /home/asl-ss-guna/catkin_ws/src
+workspace: /home/asl-ss-guna/catkin_ws

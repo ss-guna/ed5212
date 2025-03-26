@@ -1,0 +1,7 @@
+<launch>
+    <!-- Random Motion Planner Node -->
+    <node name="random_motion_planner" pkg="iiwa_gazebo" type="planner.py" output="screen"/>
+    
+    <!-- Optional: Include the iiwa gazebo launch file if you need to start the simulation too -->
+    <!-- <include file="$(find iiwa_gazebo)/launch/iiwa_gazebo.launch"/> -->
+</launch>
